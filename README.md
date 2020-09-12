@@ -1887,7 +1887,7 @@ AntiAim.SetLBYOffset(90);
 |-------------------------------|
 
 
-**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDETOLERANCE** ]  
+**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDETOLERANCE** ]
 Syntax:Exploit.OverrideTolerance(int value);  
 Lower value results in faster double-tap.   
 Default value: 2  
