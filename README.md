@@ -1886,39 +1886,6 @@ AntiAim.SetLBYOffset(90);
 ## <a name="a"></a>Exploit
 |-------------------------------|
 
-
-  [ **OVERRIDETOLERANCE** ]
-Syntax:Exploit.OverrideTolerance(int value);  
-Lower value results in faster double-tap.   
-Default value: 2  
-Maximum value is clamped to 8.  
-```java
-UI.AddSliderInt("Shift", 0, 14)
-UI.AddSliderInt("Tolerance", 0, 8)
-function on_createmove()
-{
-    Exploit.OverrideShift(UI.GetValue("Script items", "Shift"))
-    Exploit.OverrideTolerance(UI.GetValue("Script items", "Tolerance"))
-}
-Cheat.RegisterCallback("CreateMove", "on_createmove")
-```
-
-  [ **OVERRIDESHIFT** ]
-Syntax:Exploit.OverrideShift(int value);  
-Higher value results in faster double-tap.  
-Default value: 12  
-Maximum value is clamped to 14.  
-```java
-UI.AddSliderInt("Shift", 0, 14)
-UI.AddSliderInt("Tolerance", 0, 8)
-function on_createmove()
-{
-    Exploit.OverrideShift(UI.GetValue("Script items", "Shift"))
-    Exploit.OverrideTolerance(UI.GetValue("Script items", "Tolerance"))
-}
-Cheat.RegisterCallback("CreateMove", "on_createmove")
-```
-
   [ **ENABLERECHARGE** ]
 Syntax:Exploit.EnableRecharge();  
 Enable automatic recharge  
