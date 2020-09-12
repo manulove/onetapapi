@@ -1887,7 +1887,7 @@ AntiAim.SetLBYOffset(90);
 |-------------------------------|
 
 
-  [ **OVERRIDETOLERANCE** ] ** IN OT V3 CRACK NOT WORKS ** 
+**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDETOLERANCE** ]  
 Syntax:Exploit.OverrideTolerance(int value);  
 Lower value results in faster double-tap.   
 Default value: 2  
@@ -1903,7 +1903,7 @@ function on_createmove()
 Cheat.RegisterCallback("CreateMove", "on_createmove")
 ```
 
-  [ **OVERRIDESHIFT** ] ** IN OT V3 CRACK NOT WORKS ** 
+**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDESHIFT** ] ** IN OT V3 CRACK NOT WORKS ** 
 Syntax:Exploit.OverrideShift(int value);  
 Higher value results in faster double-tap.  
 Default value: 12  
