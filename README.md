@@ -1903,7 +1903,7 @@ function on_createmove()
 Cheat.RegisterCallback("CreateMove", "on_createmove")
 ```
 
-**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDESHIFT** ] ** IN OT V3 CRACK NOT WORKS ** 
+**IN OT V3 CRACK NOT WORKS**  [ **OVERRIDESHIFT** ]
 Syntax:Exploit.OverrideShift(int value);  
 Higher value results in faster double-tap.  
 Default value: 12  
