@@ -27,7 +27,7 @@
 ## <a name="0"></a>Globals
 |-------------------------------|
 
-[ **ChokedCommands** ]
+**IN OT V3 CRACK NOT WORKS** [ **ChokedCommands** ]
 Syntax: Globals.ChokedCommands()  
 **Returns** amount of choked commands.
 ```java
@@ -1364,7 +1364,7 @@ A bullet would be 0x4600400b ( CONTENTS_SOLID + CONTENTS_WINDOW + CONTENTS_GRATE
 ```
 
 
-  [ **SMOKE** ]
+ **IN OT V3 CRACK NOT WORKS** [ **SMOKE** ]
 Syntax:Trace.Smoke(array start, array end)  
 Used to check if smoke is between two points.  
 **Returns** 1 if there was smoke.  
@@ -1499,7 +1499,7 @@ Cheat.RegisterCallback("CreateMove", "onCreateMove");
 ```
 
 
-  [ **SETVIEWANGLES** ]
+**IN OT V3 CRACK NOT WORKS**  [ **SETVIEWANGLES** ]
 Syntax:UserCMD.SetViewAngles( [x,y,z], bool silent );  
 Control user angles.  
 ```java
@@ -1511,16 +1511,16 @@ function setAngle()
 Cheat.RegisterCallback("CreateMove", "setAngle");
 ```
 
-  [ **SEND** ]
+**IN OT V3 CRACK NOT WORKS**  [ **SEND** ]
 Syntax:UserCMD.Send()  
 Please note that this function may be overruled by internal processing related to, but not limited to, shot handling, anti-aim, and exploits.
 
-  [ **CHOKE** ]
+**IN OT V3 CRACK NOT WORKS**  [ **CHOKE** ]
 Syntax:UserCMD.Choke()  
 Please note that this function may be overruled by internal processing related to, but not limited to, shot handling, anti-aim, and exploits.
 
 
-  [ **SETBUTTONS** ]
+**IN OT V3 CRACK NOT WORKS**  [ **SETBUTTONS** ]
 Syntax:UUserCMD.SetButtons();  
 Used to set buttons.  
 ```java
@@ -1534,7 +1534,7 @@ Cheat.RegisterCallback("CreateMove", "forceJump")
 ```
 
 
-  [ **SETBUTTONS** ]
+**IN OT V3 CRACK NOT WORKS**  [ **SETBUTTONS** ]
 Syntax:UserCMD.GetButtons();  
 Used to set buttons.  
 **Returns** buttons.  
